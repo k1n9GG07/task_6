@@ -70,6 +70,8 @@ Static:     CDN (Cloudflare / AWS S3)
 
 ##  Как открыть архитектурную схему
 
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/878a4503-4f32-49c2-accc-149af06eeebe" />
+
 1. Перейди на [app.diagrams.net](https://app.diagrams.net)
 2. Нажми **File → Open from → Device**
 3. Выбери файл `3ИТР1.9.23_ТОКМАЕВ_Схема.drawio`
